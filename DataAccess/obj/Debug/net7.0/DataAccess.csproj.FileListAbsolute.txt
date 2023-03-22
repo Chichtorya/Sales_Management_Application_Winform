@@ -1,0 +1,15 @@
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\FPT\ky 5\PRN211\ASS2ss2\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
